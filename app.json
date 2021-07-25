@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "moonshinecafe",
+    "slug": "moonshinecafe",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/moonshine/moonshine_food_icon.png",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/moonshine/moonshine_food_icon.png",
+        "backgroundColor": "#0000FF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": ""
+  }
+}
